@@ -10,7 +10,6 @@
 |Dependencies|**Assumes:** <br> Northeastern State Vehicle Owners have an online code & sign on access to the website <br> Vehicle Owners must have internet access <br> Vehicle Owner has valid credit card information & sufficient funds in their account <br> RMV has access to the data uploaded by Vehicle Owners| -Axel
 |Actor Role(s)|Vehicle owner: Acessing the RMV's online vehicle registration renewal system. <br> - RMV: Managing vehicle registration records.| -Evan
 |Precondition(s)|Vehicle owner has internet access <br> Vehicle owner has a valid credit card <br> Vehicle owner has received a renewal notifiaction| -Tori
-
 |Success Guarantee|success|
 |Minimal Guarantee|minimal|
 |Trgger(s)|triggers|
